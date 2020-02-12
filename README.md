@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co/mXnXWYR/james-harden-cropped-adrrcka6po2g1feaaueg721vj.jpg)
+![alt text](https://i.ibb.co/mXnXWYR/james-harden-cropped-adrrcka6po2g1feaaueg721vj.jpg=200x150)
 
 # GoBarberApi
 
